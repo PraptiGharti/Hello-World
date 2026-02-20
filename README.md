@@ -9,4 +9,4 @@ Hi there 👋
 I am Prapti Gharti. <br>
 I love to study.👩‍💻<br>
 I am a good student.👩‍🎓<br>
-*I am funny too.* 😁
+I am funny too. 😁
