@@ -6,5 +6,5 @@ Hi there 👋
 #About Myself
 <br>
 I am Prapti Gharti. <br>
-I love to study.👩‍💻<br>
+I hate to study.<br>
 I am a good student.👩‍🎓
